@@ -15,7 +15,7 @@ The following packages are required to run this script
 - Run the script in the IDE of your choice
 
 ## Details about the script
-Here is a brief outlines of how the script works
+Here is a brief outline of how the script works
 
 1. Get raw data from working directory
 2. Merge the training and the test data sets into one, name the variables and sort the combined data set by subject id and activity type
@@ -26,6 +26,7 @@ Here is a brief outlines of how the script works
 	7. The data set was "melted" to long format using subject id and activity
 	8. The feature variable was split into several new variables (domain, sensor and signal)
 	9. The data was casted to wide format by the two statistical measures, and was written into a space delimited file called "tidy.txt"
+
 ## Comments
 Post bugs, issues, feature requests via [GitHub Issues].
 
