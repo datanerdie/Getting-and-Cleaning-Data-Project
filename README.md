@@ -11,7 +11,7 @@ The following packages are required to run this script
 - data.table
 
 ## Usage
-- Download the raw data [here] and extract the included files to the working directory
+- Download the raw data [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Title") and extract the included files to the working directory
 - Run the script in the IDE of your choice
 
 ## Details about the script
