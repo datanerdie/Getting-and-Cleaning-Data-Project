@@ -11,7 +11,7 @@ The following packages are required to run this script
 - data.table
 
 ## Usage
-- Download the raw data [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Title") and extract the included files to the working directory
+- Download the raw data [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and extract the included files to the working directory
 - Run the script in the IDE of your choice
 
 ## Details about the script
@@ -28,11 +28,11 @@ Here is a brief outline of how the script works
 	9. The data was casted to wide format by the two statistical measures, and was written into a space delimited file called "tidy.txt"
 
 ## Comments
-Post bugs, issues, feature requests via [GitHub Issues].
+Post bugs, issues, feature requests via [GitHub Issues](https://github.com/datanerdie/Getting-and-Cleaning-Data-Project/issues).
 
 ## Reference
-Hadley Wickham, 2011. Tidy data. [http://vita.had.co.nz/papers/tidy-data.pdf]‎
+Hadley Wickham, 2011. Tidy data. [http://vita.had.co.nz/papers/tidy-data.pdf](http://vita.had.co.nz/papers/tidy-data.pdf)
 
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
-Human Activity Recognition Using Smartphones Data Set [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]
+Human Activity Recognition Using Smartphones Data Set [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
